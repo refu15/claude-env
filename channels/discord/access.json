@@ -1,0 +1,357 @@
+{
+  "dmPolicy": "pairing",
+  "allowFrom": [
+    "1338863143476133919"
+  ],
+  "groups": {
+    "1485275292321976353": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1486250315157344286": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1486250351274233906": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1486250376926593076": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1486265918353965156": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478266399351902318": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1427848710137843714": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1429223728683679754": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1450679303439384607": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428329737222357064": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428331902065971220": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428330485637185647": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428330904220078173": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428331660902006794": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428332675030323241": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428333154837463153": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428335385150492694": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428336286451761153": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428336513468596305": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428337852697153557": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428338518333194293": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428338822160318485": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428339052742185060": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428339405461917777": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428339614317412482": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428339936334975028": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428340307119968376": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428340631352119308": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428340967748014221": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428341270664974410": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428341472955990137": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1429440761971216567": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1430400391740133406": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1430466851854483516": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1430773435465859082": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1431080277266137128": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1432922446922518739": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1432922595904327690": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1434089614922092625": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1437714258589909002": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1439452900920262746": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1450672158312501429": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1465926978828898538": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1465989066599432340": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1465989365955039243": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1468511260516814858": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1472375732859834420": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1472375963961659422": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1472376239250477297": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1472376720202924106": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1472376886851014868": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478260919615098987": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478261965637025953": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478263542070378547": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478263647221321800": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478264006958645430": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478264367085523185": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478264853415329926": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478264987675005069": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478266997841330237": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478266736993243198": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478267188694618132": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478267950975815839": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478268292303945848": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478269293245239389": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478269697421213697": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478270224854945863": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478270531139665990": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478271121768841357": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478271459582410847": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478271766815178826": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478272037071093820": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478272316122206319": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478272596335132793": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478272857841729646": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478273219625750548": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478273435095404827": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478273803581788160": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478274014064545913": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478274402486583367": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478274659773583477": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478274940695351338": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478275124342952028": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478386959109066916": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1428355870085087242": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1429447301767889117": {
+      "requireMention": false,
+      "allowFrom": []
+    },
+    "1478385587026133086": {
+      "requireMention": false,
+      "allowFrom": []
+    }
+  },
+  "pending": {}
+}

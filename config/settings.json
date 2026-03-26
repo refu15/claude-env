@@ -1,0 +1,49 @@
+{
+  "cleanupPeriodDays": 30,
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "WebSearch(*)",
+      "WebFetch(*)",
+      "mcp__playwright__*",
+      "mcp__filesystem__*",
+      "mcp__claude_ai_Notion__*",
+      "mcp__claude_ai_Canva__*",
+      "mcp__slack__*"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/nnkre/.claude/hooks/block-dangerous-bash.sh",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/nnkre/.claude/hooks/auto-commit-config.sh",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  },
+  "mcpServers": {},
+  "enabledPlugins": {
+    "discord@claude-plugins-official": true
+  },
+  "language": "ja",
+  "effortLevel": "low",
+  "autoUpdatesChannel": "stable",
+  "channelsEnabled": true,
+  "showTurnDuration": true
+}
